@@ -101,7 +101,7 @@ nav ul li{
 
 }
 
-/*nav ul li a{
+nav ul li a{
     display: block;
     margin: 0px 0;
     padding: 0px 20px;
@@ -109,7 +109,7 @@ nav ul li{
     text-decoration: none;
     font-family: sans-serif;
     font-size: 20px;
-}*/
+}
 a.social {
     display: inline-block;
     text-indent: -9999px;
